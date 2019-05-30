@@ -1,0 +1,7 @@
+main_contract_address = "0x3b104C9Bf3B5160693D2b5E2AC24744c5Da2059c"
+side_contract_address = "0x8886f0f21042e73cc1c7d2c48a3135666492981f"
+main_deployed_at_block = 5697832
+side_deployed_at_block = 62
+last_main_to_side_sign_at_block = 1
+last_side_to_main_signatures_at_block = 1
+last_side_to_main_sign_at_block = 1

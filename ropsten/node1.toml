@@ -1,0 +1,14 @@
+[parity]
+chain = "ropsten.json"
+base_path = "/tmp/parity1"
+light = true
+[network]
+port = 30301
+[rpc]
+port = 8541
+apis = ["web3", "eth", "net", "personal", "parity", "parity_set", "traces", "rpc", "parity_accounts"]
+[websockets]
+port = 8451
+#[account]
+#unlock = ["0x00bd138abd70e2f00903268f3db08f2d25677c9e"]
+#password = ["node.pwds"]
